@@ -48,10 +48,11 @@
 
 ## Heat Treatment of 3D printed part
 
-## Output:
-
-### Name:
-### Register Number:
+![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/b0f1dbd3-d4d0-4c95-8ed9-10ccc5c5054b)
+![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/dcc94f9f-d654-4464-93af-8f3a73a6fe34)
+]
+### Name:23011967
+### Register Number:HARIHARAN J
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
