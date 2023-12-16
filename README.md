@@ -40,6 +40,7 @@
 ![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/aa63acc3-857a-4b86-9749-98c1343e9606)
 ## Heat Treatment of 3D printed part
 ![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/5ff30040-eefc-4a02-a8d6-7bd8bfd86c37)
+
 ![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/b5f55330-5db6-4c18-9aa7-96c60b4c4a4f)
 ### NAME:HARIHARAN J
 ### Register Number:23011967
