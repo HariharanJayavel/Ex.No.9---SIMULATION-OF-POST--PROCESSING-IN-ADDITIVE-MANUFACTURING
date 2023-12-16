@@ -32,25 +32,15 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
-
 ## Support Removal Process
-![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/2c51e46f-c41e-49cd-9aa7-392b8002a6d6)
-![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/b48f6a2b-c192-4e35-9db4-82f1178196a4)
-![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/3b29e4d3-0b25-4005-87db-6927af544bca)
-
-
+![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/ffb45934-ac32-4f9c-9b9f-77196245fa9a)
+![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/de843a90-d756-40a8-973e-1ca3bf73b963)
 ## UV Curing of 3D printed part
-
-![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/65a4e970-b6d4-4345-af91-dce0954f348e)
-![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/2f082d01-3cec-4250-b23c-c4949db873c1)
-![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/33322a88-f98e-4356-9e9b-87d35d4d2ab4)
-
-
+![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/8de48d1c-cfd1-4dcf-83d6-8862a284361a)
+![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/aa63acc3-857a-4b86-9749-98c1343e9606)
 ## Heat Treatment of 3D printed part
-
 ![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/b0f1dbd3-d4d0-4c95-8ed9-10ccc5c5054b)
 ![image](https://github.com/HariharanJayavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/dcc94f9f-d654-4464-93af-8f3a73a6fe34)
-
 ### Name:23011967
 ### Register Number:HARIHARAN J
 
